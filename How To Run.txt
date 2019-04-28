@@ -1,0 +1,7 @@
+1. open Main.py
+2. change model_file variable    to your   "output_graph.pb" path
+3. change  label_file to your "output_labels.txt" path
+4. tun the script
+
+5. press  c   to capture
+6. press q to exit

@@ -1,0 +1,9 @@
+bird
+camel
+cat
+cow
+dog
+horse
+mouse
+sheep
+snake
